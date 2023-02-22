@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/simonecordeiro">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=simonecordeiro&show_icons=true&theme=vue&include_all_commits=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonecordeiro&layout=compact&langs_count=8&theme=vue&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=simonecordeiro&show_icons=true&theme=vue&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonecordeiro&layout=compact&langs_count=8&theme=vue&include_all_commits=true"/>
 </div>
 
 <div style="display: inline_block"><br>
